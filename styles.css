@@ -1,0 +1,47 @@
+body{
+  background-color: salmon;
+}
+
+#first{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  height: 20px;
+  background-color: #ed7076;
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 1px;
+}
+
+#second{
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  height: 20px;
+  background-color: #8370eb;
+  border-radius: 20px;
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 1px;
+}
+
+#fortunetext{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  width: 320px;
+  height: 100px;
+  text-align: center;
+  background-color: lightblue;
+  font-family: "San Serif";
+}
+
+#fortunetext h3{
+  color: black;
+  font-family: "Georgia";
+  border: bold;
+}
