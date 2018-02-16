@@ -7,6 +7,7 @@ var fortunesList= [
 ];
 console.log(fortunesList[4]);
 
-for (i = 0; i < fortunesList; i++){
-	return fortunesList[0];
+function generateFortuneCookie() {
+	return = "Hello World";
+
 }
